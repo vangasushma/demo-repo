@@ -1,5 +1,3 @@
 # demo-repo
-
-good morning
-HOW ARE YOU 
-this is new ranch1
+hello this is my new branch2 
+please approvegit
